@@ -1,7 +1,7 @@
 # PRAC_PYTHON
 ### 소스 내용 
-- numpy 
-- python property 
+- [numpy](https://github.com/hyunseokjoo/PRAC_PYTHON/blob/main/pracNumpy/pracNumpy.py)
+- [property](https://github.com/hyunseokjoo/PRAC_PYTHON/blob/main/property.py)
 - 
 
 
